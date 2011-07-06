@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[default ]]></content>
+    <tabTrigger>df</tabTrigger>
+    <scope>source.java</scope>
+    <description>[NetBeans] default</description>
+</snippet>

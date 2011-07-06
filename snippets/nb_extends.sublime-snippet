@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[extends ]]></content>
+    <tabTrigger>ex</tabTrigger>
+    <scope>source.java</scope>
+    <description>[NetBeans] extends</description>
+</snippet>

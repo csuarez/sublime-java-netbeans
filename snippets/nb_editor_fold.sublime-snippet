@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[//<editor-fold>$0</editor-fold> ]]></content>
+    <tabTrigger>fcom</tabTrigger>
+    <scope>source.java</scope>
+    <description>[NetBeans] editor-fold</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[class ]]></content>
+    <tabTrigger>cl</tabTrigger>
+    <scope>source.java</scope>
+    <description>[NetBeans] class</description>
+</snippet>

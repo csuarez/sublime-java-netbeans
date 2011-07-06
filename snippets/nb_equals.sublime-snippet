@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[equals ]]></content>
+    <tabTrigger>eq</tabTrigger>
+    <scope>source.java</scope>
+    <description>[NetBeans] equals</description>
+</snippet>

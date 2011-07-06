@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[float ]]></content>
+    <tabTrigger>fl</tabTrigger>
+    <scope>source.java</scope>
+    <description>[NetBeans] float</description>
+</snippet>

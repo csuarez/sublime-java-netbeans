@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[double ]]></content>
+    <tabTrigger>db</tabTrigger>
+    <scope>source.java</scope>
+    <description>[NetBeans] double</description>
+</snippet>

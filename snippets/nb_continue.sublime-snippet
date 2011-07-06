@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[continue ]]></content>
+    <tabTrigger>cn</tabTrigger>
+    <scope>source.java</scope>
+    <description>[NetBeans] continue</description>
+</snippet>

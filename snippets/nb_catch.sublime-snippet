@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[catch(]]></content>
+    <tabTrigger>ca</tabTrigger>
+    <scope>source.java</scope>
+    <description>[NetBeans] catch</description>
+</snippet>
