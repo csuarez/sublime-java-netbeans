@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[boolean ]]></content>
+    <tabTrigger>bo</tabTrigger>
+    <scope>source.java</scope>
+    <description>[NetBeans] boolean</description>
+</snippet>
