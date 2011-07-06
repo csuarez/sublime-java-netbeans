@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[assert true;]]></content>
+    <tabTrigger>as</tabTrigger>
+    <scope>source.java</scope>
+    <description>[NetBeans] assert-true</description>
+</snippet>
