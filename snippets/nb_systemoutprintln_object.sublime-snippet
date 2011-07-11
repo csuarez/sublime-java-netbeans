@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[System.out.println("$1=" + $1);]]></content>
+    <content><![CDATA[System.out.println("${1:Object}=" + ${1:Object});]]></content>
     <tabTrigger>soutv</tabTrigger>
     <scope>source.java</scope>
     <description>[NetBeans] system.out.println-object</description>
