@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[implements ]]></content>
+    <tabTrigger>im</tabTrigger>
+    <scope>source.java</scope>
+    <description>[NetBeans] implements</description>
+</snippet>
