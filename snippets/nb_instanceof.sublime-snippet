@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[if ($1 instanceof $2) {
+	$2 $3 = ($2) $1;
+}]]></content>
+    <tabTrigger>inst</tabTrigger>
+    <scope>source.java</scope>
+    <description>[NetBeans] if-instanceof</description>
+</snippet>
