@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[try {
 	$0
-} catch (Exception $1){
+} catch (Exception ${1:e}){
 	    	
 } ]]></content>
     <tabTrigger>trycatch</tabTrigger>
