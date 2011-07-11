@@ -1,6 +1,6 @@
 <snippet>
-    <content><![CDATA[while($1.hasMoreElements()) {
-	$2 $3 = ($2) $1.nextElement();    	
+    <content><![CDATA[while(${1:en}.hasMoreElements()) {
+	${2:Object} ${3:elem} = (${2:Object}) ${1:en}.nextElement();    	
 }]]></content>
     <tabTrigger>whilen</tabTrigger>
     <scope>source.java</scope>
