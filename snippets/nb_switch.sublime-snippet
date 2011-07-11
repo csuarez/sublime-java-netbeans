@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[switch($1) {
+	case $2:
+		$0
+		break;
+	default:
+		throw new AssertionError();    	
+} ]]></content>
+    <tabTrigger>sw</tabTrigger>
+    <scope>source.java</scope>
+    <description>[NetBeans] switch</description>
+</snippet>
