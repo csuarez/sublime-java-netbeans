@@ -1,6 +1,6 @@
 <snippet>
-    <content><![CDATA[for (int $1 = 0; $1 < $2.size(); $1++) {
-	$3 $4 = $2.elementAt($1);
+    <content><![CDATA[for (int ${1:i} = 0; ${1:i} < ${2:vct}.size(); ${1:i}++) {
+	${3:Object} ${4:object} = ${2:vct}.elementAt(${1:i});
 	$0 
 } ]]></content>
     <tabTrigger>forv</tabTrigger>
