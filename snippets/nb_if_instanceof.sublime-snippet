@@ -1,6 +1,6 @@
 <snippet>
-    <content><![CDATA[if ($1 instanceof $2) {
-	$2 $3 = ($2) $1;
+    <content><![CDATA[if (${1:exp} instanceof ${2:Object}) {
+	${2:Object} ${3:object} = (${2:Object}) ${1:exp};
 }]]></content>
     <tabTrigger>inst</tabTrigger>
     <scope>source.java</scope>
