@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[interface ]]></content>
+    <tabTrigger>ie</tabTrigger>
+    <scope>source.java</scope>
+    <description>[NetBeans] interface</description>
+</snippet>
