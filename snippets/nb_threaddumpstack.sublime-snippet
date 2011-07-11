@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Thread.dumpStack();]]></content>
+    <tabTrigger>tds</tabTrigger>
+    <scope>source.java</scope>
+    <description>[NetBeans] thread-dumpstack</description>
+</snippet>
