@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[while($1.hasNext()) {
+	$2 $3 = ($2) $1.next();    	
+}]]></content>
+    <tabTrigger>whileit</tabTrigger>
+    <scope>source.java</scope>
+    <description>[NetBeans] while-iterator</description>
+</snippet>
