@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[throws ]]></content>
+    <tabTrigger>th</tabTrigger>
+    <scope>source.java</scope>
+    <description>[NetBeans] throws</description>
+</snippet>
