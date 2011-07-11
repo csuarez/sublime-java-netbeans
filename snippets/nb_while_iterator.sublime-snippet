@@ -1,6 +1,6 @@
 <snippet>
-    <content><![CDATA[while($1.hasNext()) {
-	$2 $3 = ($2) $1.next();    	
+    <content><![CDATA[while(${1:it}.hasNext()) {
+	${2:Object} ${3:elem} = (${2:Object}) ${1:it}.next();    	
 }]]></content>
     <tabTrigger>whileit</tabTrigger>
     <scope>source.java</scope>
