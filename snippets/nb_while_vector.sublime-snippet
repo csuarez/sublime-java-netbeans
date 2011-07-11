@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[while($1.hasMoreElements()) {
+	$2 $3 = ($2) $1.nextElement();    	
+}]]></content>
+    <tabTrigger>whilen</tabTrigger>
+    <scope>source.java</scope>
+    <description>[NetBeans] while-vector</description>
+</snippet>
