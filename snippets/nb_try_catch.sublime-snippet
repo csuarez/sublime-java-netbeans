@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[try {
+	$0
+} catch (Exception $1){
+	    	
+} ]]></content>
+    <tabTrigger>trycatch</tabTrigger>
+    <scope>source.java</scope>
+    <description>[NetBeans] try-catch</description>
+</snippet>
