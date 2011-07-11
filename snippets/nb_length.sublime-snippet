@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[length]]></content>
+    <tabTrigger>le</tabTrigger>
+    <scope>source.java</scope>
+    <description>[NetBeans] length</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[native ]]></content>
+    <tabTrigger>na</tabTrigger>
+    <scope>source.java</scope>
+    <description>[NetBeans] native</description>
+</snippet>
