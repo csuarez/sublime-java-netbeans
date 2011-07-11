@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[for ($1 $2 : $3) {
+    <content><![CDATA[for (${1:Object} ${2:elem} : ${3:iterable}) {
 	$0  
 } ]]></content>
     <tabTrigger>fore</tabTrigger>
