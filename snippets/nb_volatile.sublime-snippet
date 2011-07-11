@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[volatile ]]></content>
+    <tabTrigger>vo</tabTrigger>
+    <scope>source.java</scope>
+    <description>[NetBeans] volatile</description>
+</snippet>
