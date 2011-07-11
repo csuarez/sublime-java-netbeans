@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[printStackTrace();]]></content>
+    <tabTrigger>pst</tabTrigger>
+    <scope>source.java</scope>
+    <description>[NetBeans] printstacktrace</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[public static void main (String[] args) {
+	$0    	
+}]]></content>
+    <tabTrigger>psvm</tabTrigger>
+    <scope>source.java</scope>
+    <description>[NetBeans] main</description>
+</snippet>
