@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[super ]]></content>
+    <tabTrigger>su</tabTrigger>
+    <scope>source.java</scope>
+    <description>[NetBeans] super</description>
+</snippet>
