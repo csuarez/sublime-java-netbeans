@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[for (StringTokenizer $1 = new StringTokenizer("$2"); $1.hasMoreTokens();) {
+	 $0
+} ]]></content>
+    <tabTrigger>forst</tabTrigger>
+    <scope>source.java</scope>
+    <description>[NetBeans] for-tokenizer</description>
+</snippet>
