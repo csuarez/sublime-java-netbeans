@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[protected ]]></content>
+    <tabTrigger>pe</tabTrigger>
+    <scope>source.java</scope>
+    <description>[NetBeans] protected</description>
+</snippet>
