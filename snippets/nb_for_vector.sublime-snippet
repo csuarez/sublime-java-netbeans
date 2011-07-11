@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[for (int $1 = 0; $1 < $2.size(); $1++) {
+	$0  
+} ]]></content>
+    <tabTrigger>forl</tabTrigger>
+    <scope>source.java</scope>
+    <description>[NetBeans] for-vector</description>
+</snippet>
