@@ -1,6 +1,6 @@
 <snippet>
-    <content><![CDATA[for (Iterator $1 = $2.iterator(); $1.hasNext();) {
-	 $3 $4 = ($3) $1.next();
+    <content><![CDATA[for (Iterator ${1:it} = ${2:collection}.iterator(); ${1:it}.hasNext();) {
+	 ${3:Object} ${4:elem} = (${3:Object}) ${1:it}.next();
 	 $0  
 } ]]></content>
     <tabTrigger>forc</tabTrigger>
