@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[Runnable $1 = new Runnable() {
+	public void run() {
+		$0
+	}    	
+}]]></content>
+    <tabTrigger>runn</tabTrigger>
+    <scope>source.java</scope>
+    <description>[NetBeans] new-runnable</description>
+</snippet>
