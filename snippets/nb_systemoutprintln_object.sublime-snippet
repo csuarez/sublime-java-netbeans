@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[System.out.println("$1=" + $1);]]></content>
+    <tabTrigger>soutv</tabTrigger>
+    <scope>source.java</scope>
+    <description>[NetBeans] system.out.println-object</description>
+</snippet>
