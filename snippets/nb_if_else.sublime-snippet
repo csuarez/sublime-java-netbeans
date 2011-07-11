@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[if ($1) {
+	$0
+} else {
+		
+}]]></content>
+    <tabTrigger>ifelse</tabTrigger>
+    <scope>source.java</scope>
+    <description>[NetBeans] if-else</description>
+</snippet>
