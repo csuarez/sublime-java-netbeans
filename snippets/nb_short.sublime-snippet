@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[short ]]></content>
+    <tabTrigger>sh</tabTrigger>
+    <scope>source.java</scope>
+    <description>[NetBeans] short</description>
+</snippet>
