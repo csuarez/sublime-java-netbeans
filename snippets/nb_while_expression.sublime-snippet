@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[while($1) {
+    <content><![CDATA[while(${1:exp}) {
 	$0    	
 }]]></content>
     <tabTrigger>whilexp</tabTrigger>
