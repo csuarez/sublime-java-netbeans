@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[private static final int ]]></content>
+    <tabTrigger>psfi</tabTrigger>
+    <scope>source.java</scope>
+    <description>[NetBeans] private-static-final-int</description>
+</snippet>
