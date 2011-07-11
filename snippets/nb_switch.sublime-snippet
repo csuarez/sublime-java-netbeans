@@ -1,6 +1,6 @@
 <snippet>
-    <content><![CDATA[switch($1) {
-	case $2:
+    <content><![CDATA[switch(${1:var}) {
+	case ${2:val}:
 		$0
 		break;
 	default:
